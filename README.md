@@ -4,12 +4,12 @@
 
 ## TODO List
 ### 通用能力
-[ ] Lint
-[ ] tsconfig
+- [ ] Lint
+- [ ] tsconfig
 
 ### 模板
-[ ] Vue + Vite
-[ ] Nuxtjs
-[ ] Nextjs
-[ ] Remix
-[ ] expo
+- [ ] Vue + Vite
+- [ ] Nuxtjs
+- [ ] Nextjs
+- [ ] Remix
+- [ ] expo
